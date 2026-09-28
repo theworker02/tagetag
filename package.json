@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tagetag",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tag host/etag network string helpers for config audits.",
+  "bin": {
+    "tagetag": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tagetag.git"
+  },
+  "homepage": "https://theworker02.github.io/tagetag/",
+  "keywords": [
+    "tag",
+    "etag",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
